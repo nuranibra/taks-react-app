@@ -1,0 +1,16 @@
+.box{
+    display: flex;
+    flex-direction: column;
+}
+
+.text{
+    font-size:30px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.child{
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom:1px solid #000;
+    margin:20px 2%;
+}
